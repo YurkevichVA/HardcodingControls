@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HardcodingControls", "HardcodingControls\HardcodingControls.csproj", "{E553680F-57FF-42CA-8ED6-4DBA0AF381D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E553680F-57FF-42CA-8ED6-4DBA0AF381D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E553680F-57FF-42CA-8ED6-4DBA0AF381D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E553680F-57FF-42CA-8ED6-4DBA0AF381D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E553680F-57FF-42CA-8ED6-4DBA0AF381D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEA12F49-CE34-49E9-87DD-C3DF046E2CE4}
+	EndGlobalSection
+EndGlobal
